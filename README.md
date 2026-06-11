@@ -1,2 +1,3 @@
-# sprint-3-python-project
-sprint 3 project repo
+# Video Game Sales Analysis
+## Description: An analysis of the top-selling video games of all time.
+## Data Source: Python List.
